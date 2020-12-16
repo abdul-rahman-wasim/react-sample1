@@ -1,6 +1,6 @@
 import React from 'react';
-import Dinner from './dinner.js';
 import './App.css';
+import Dinner from './dinner.js';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
      
         <Dinner dishName="Biryani" complimentary="Coke"/>
         <hr/>
-        <Dinner dishName="Tikka" complimentary="Sprite"/>
+        <Dinner dishName="Tikka" complimentary="Pepsi"/>
         <hr/>
         <Dinner dishName="Karahi" complimentary="Fanta"/>
  
